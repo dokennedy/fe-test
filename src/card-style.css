@@ -1,0 +1,32 @@
+
+.card{
+    color: white;
+    height: 25rem;
+    margin: 10px 0 10px;
+}
+
+
+.card-text{
+    color: white;
+    font-size: 0.9rem ;
+}
+
+.card-title{
+    color: white;
+}
+
+
+H6{
+    color: white;
+    font-size: 0.8rem !important;
+}
+
+H4{
+    color: white;
+}
+
+
+.card-btn{
+    position: absolute;
+    bottom: 1rem;
+}

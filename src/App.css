@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+h1{
+   color: #EC6679; 
+}
+
+p{
+  color: #8C8C8C;
+  
+}
+
+body{
+  background-color: #F8F8F8 !important;
+
+}
+
+.container{
+  max-width: 1200px;
+  margin: 50px auto;
+}
+
+.card-container{
+  padding: 30px 0 30px;
+}
+
+.container-fluid{
+  padding: 0px !important;
+}
+
+
+
